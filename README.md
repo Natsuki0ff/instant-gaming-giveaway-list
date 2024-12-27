@@ -1,5 +1,11 @@
-# instant-gaming-giveaway-list
-Instant Gaming Ultimate Giveaway List
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=%F0%9F%8E%89+Instant+Gaming+Ultimate+Giveaway+List+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+
+Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
+
+> **Note:** Certain links may no longer work, and some giveaways might be over. However, the maximum number of giveaway links are listed here! 📅🔗
+
+---
+
 <p id="giveaways" align="left">
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/muusoo?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7534356-1687868492.jpg" alt="Giveaway Image" width="76" height="76" />
