@@ -6,6 +6,7 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
 
 <img src="https://www.instant-gaming.com/themes/igv2/images/opengraph.png" alt="Banner" style="width: 100%; height: auto;">
     </header>
+
 ---
 
 <p id="giveaways" align="left">
