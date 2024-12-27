@@ -25,9 +25,9 @@ def generate_html(input_file, output_file, image_url):
         print(f"Erreur : {e}")
 
 def main():
-    input_file = input("Veuillez entrer l'emplacement du fichier contenant les liens (ex: C:\\Users\\natsu\\Desktop\\liens_ig.txt) : ").strip(' "')
-    output_file = input("Veuillez entrer l'emplacement du fichier de sortie (ex: C:\\Users\\natsu\\Desktop\\out.txt) : ").strip(' "')
-    image_url = 'https://gaming-cdn.com/images/avatars/7534356-1687868492.jpg'  # URL de l'image
+    input_file = input("Veuillez entrer l'emplacement du fichier contenant les liens (ex: C:/chemin/vers/fichier.txt) : ").strip(' "')
+    output_file = input("Veuillez entrer l'emplacement du fichier de sortie (ex: C:/chemin/vers/fichier_sortie.txt) : ").strip(' "')
+    image_url = 'https://gaming-cdn.com/images/avatars/default-avatar.jpg'  # URL de l'image
 
     generate_html(input_file, output_file, image_url)
 
