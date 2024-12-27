@@ -2,6 +2,8 @@
 
 Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
 
+**Click on the Instant Gaming logos to access the giveaways! Each photo redirects to an Instant Gaming giveaway!**
+
 > **Note:** Certain links may no longer work, and some giveaways might be over. However, the maximum number of giveaway links are listed here! 📅🔗
 
 <img src="https://www.instant-gaming.com/themes/igv2/images/opengraph.png" alt="Banner" style="width: 100%; height: auto;">
