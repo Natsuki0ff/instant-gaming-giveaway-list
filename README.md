@@ -739,8 +739,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/INFOPOINT-ITALIA?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 1</p>
-<p>---</p>
+<br><h2>Section # 1</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/dashprof?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -772,8 +772,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/MORAISHD?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 2</p>
-<p>---</p>
+<br><h2>Section # 2</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/SNEILISNEILS?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -805,8 +805,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/DAIMAO?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 3</p>
-<p>---</p>
+<br><h2>Section # 3</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/MOON?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -838,8 +838,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/THESEVI87?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 4</p>
-<p>---</p>
+<br><h2>Section # 4</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/NALFEINN?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -871,8 +871,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/DIEPRISESALZ?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 5</p>
-<p>---</p>
+<br><h2>Section # 5</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/MINIMUH?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -904,8 +904,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/qdss?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 6</p>
-<p>---</p>
+<br><h2>Section # 6</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/GALAX?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -937,8 +937,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/PLAYERINSIDE?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 7</p>
-<p>---</p>
+<br><h2>Section # 7</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/TOMBIE?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -970,8 +970,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/ESPORTMANIACOS?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 8</p>
-<p>---</p>
+<br><h2>Section # 8</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/MARIOSTURNIOLO?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1003,8 +1003,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/CODQG?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 9</p>
-<p>---</p>
+<br><h2>Section # 9</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/MRTHOMAS?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1036,8 +1036,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/TOC?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 10</p>
-<p>---</p>
+<br><h2>Section # 10</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/PIXIA?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1069,8 +1069,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/J0NATHAN?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 11</p>
-<p>---</p>
+<br><h2>Section # 11</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/ITERMOSIFONI?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1102,8 +1102,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/TALRINO?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 12</p>
-<p>---</p>
+<br><h2>Section # 12</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/RESENASCORTAS?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1135,8 +1135,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/EUROGAMERPT?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 13</p>
-<p>---</p>
+<br><h2>Section # 13</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/K0MPA?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1168,8 +1168,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/yanka?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 14</p>
-<p>---</p>
+<br><h2>Section # 14</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/REPLAYTUGA?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1201,8 +1201,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/londyslounge?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 15</p>
-<p>---</p>
+<br><h2>Section # 15</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/polman?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1234,8 +1234,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/IMPAKT?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 16</p>
-<p>---</p>
+<br><h2>Section # 16</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/onlywaifu?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1267,8 +1267,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/CYBERLUK?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 17</p>
-<p>---</p>
+<br><h2>Section # 17</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/ARLAN360?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1300,8 +1300,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/KURU?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 18</p>
-<p>---</p>
+<br><h2>Section # 18</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/bugland?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1333,8 +1333,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/PORAID?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 19</p>
-<p>---</p>
+<br><h2>Section # 19</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/PORTALGAMER?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1366,8 +1366,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/GCA?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 20</p>
-<p>---</p>
+<br><h2>Section # 20</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/STELIUS?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1399,8 +1399,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/Zazza23?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 21</p>
-<p>---</p>
+<br><h2>Section # 21</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/blackpommes?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1432,8 +1432,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/KAMUSLOL?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 22</p>
-<p>---</p>
+<br><h2>Section # 22</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/cooptv?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
@@ -1465,8 +1465,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/EricLostie?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
     </a>
-<br><p># 23</p>
-<p>---</p>
+<br><h2>Section # 23</h2>
+<hr>
 <br>
     <a class="giveaway" href="https://www.instant-gaming.com/giveaway/kahrilo?igr=natsukioff" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="Giveaway Image" width="76" height="76" />
