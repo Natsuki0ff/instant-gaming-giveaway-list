@@ -57,18 +57,4 @@ This script generates an HTML file containing links to giveaways, each with an a
           <img src="https://gaming-cdn.com/images/avatars/default-avatar.jpg" alt="Giveaway Image" width="76" height="76" />
       </a>
   </p>
-  ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Explanation:
-- **Introduction**: A brief explanation of what the script does.
-- **Features**: Key features of the script.
-- **Requirements**: The prerequisites to run the script.
-- **Usage**: Step-by-step instructions on how to use the script.
-- **Example**: An example input and output for clarity.
-- **License**: A placeholder for the project license (you can add or modify the license based on your needs). 
-
-This README file should help others understand the purpose of the project and how to use it.
