@@ -9,11 +9,18 @@ def generate_html(input_file, output_file, image_url):
             return
 
         html_content = '<p id="giveaways" align="left">\n'
+        counter = 1  # Compteur pour la numérotation des sections
 
-        for link in links:
+        for i, link in enumerate(links, start=1):
             html_content += f'''    <a class="giveaway" href="{link}" target="_blank" rel="noreferrer">
         <img src="{image_url}" alt="Giveaway Image" width="76" height="76" />
     </a>\n'''
+
+            # Ajouter un séparateur tous les 10 liens avec numérotation et délimitation visuelle
+            if i % 10 == 0:
+                html_content += f'<br><h1>Paragraph {counter}</h1>\n'  # Ajouter le titre en grand avec <h1>
+                html_content += '<br>\n'  # Ajouter un saut de ligne avant la délimitation
+                counter += 1  # Incrémenter le compteur
 
         html_content += '</p>'
 
@@ -27,7 +34,7 @@ def generate_html(input_file, output_file, image_url):
 def main():
     input_file = input("Veuillez entrer l'emplacement du fichier contenant les liens (ex: C:/chemin/vers/fichier.txt) : ").strip(' "')
     output_file = input("Veuillez entrer l'emplacement du fichier de sortie (ex: C:/chemin/vers/fichier_sortie.txt) : ").strip(' "')
-    image_url = 'https://gaming-cdn.com/images/avatars/default-avatar.jpg'  # URL de l'image
+    image_url = 'https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg'  # URL de l'image mise à jour
 
     generate_html(input_file, output_file, image_url)
 
