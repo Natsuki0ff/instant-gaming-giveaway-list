@@ -4,6 +4,8 @@ Welcome to the ultimate list of giveaways on Instant Gaming! 🚀🎁
 
 **Click on the Instant Gaming logos to access the giveaways! Each photo redirects to an Instant Gaming giveaway!**
 
+How can I do it manually? Simply create an account on the Instant Gaming website, click on each image below, and follow the instructions provided on the site!
+
 > **Note:** Certain links may no longer work, and some giveaways might be over. However, the maximum number of giveaway links are listed here! 📅🔗
 
 # Make sure to follow my account on Github!
