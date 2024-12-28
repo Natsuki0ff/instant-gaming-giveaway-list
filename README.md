@@ -10,8 +10,9 @@ How can I do it manually? Simply create an account on the Instant Gaming website
 
 # Make sure to follow my account on Github!
 
-<img src="https://www.instant-gaming.com/themes/igv2/images/opengraph.png" alt="Banner" style="width: 100%; height: auto;">
-    </header>
+<a href="https://www.instant-gaming.com/?igr=natsukioff" target="_blank">
+    <img src="https://www.instant-gaming.com/themes/igv2/images/opengraph.png" alt="Banner" style="width: 100%; height: auto;">
+</a>
 
 ---
 
